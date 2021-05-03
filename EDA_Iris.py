@@ -172,3 +172,4 @@ ax.set_zlabel("3rd eigenvector")
 ax.w_zaxis.set_ticklabels([])
 
 plt.show()
+########################
